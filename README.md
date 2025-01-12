@@ -4,11 +4,11 @@
 
 ## Hardware
 
-# KiCad Project Files
+### KiCad Project Files
 
-# Gerber Files
+### Gerber Files
 
 
 ## Software
 
-# WLED
+### WLED
