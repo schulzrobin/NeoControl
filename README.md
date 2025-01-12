@@ -16,7 +16,12 @@ The KiCad Files can be found [here](/kicad).
 For the Software i use the [WLed Firmware](https://wled.io/).
 
 
-## ⭐ Future
+## 🔨 Todo's
 
-- [] Custom Firmware
-- [] Custom Home Assistant Integration
+- [ ] Custom Firmware
+- [ ] Custom Home Assistant Integration
+
+
+## 📋 Licence
+
+NeoControl was made by schulzrobin. [Follow me](https://robn.ch/l) for more Projects and Infos.
